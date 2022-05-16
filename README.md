@@ -1,4 +1,4 @@
-### Hi, eu sou a Jeni ^-^
+### Hi, eu sou a Jeni ^^
 
 - 🔭 Buscando um estágio para back-end
 - 📚 Estudando Python/JS
