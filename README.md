@@ -3,7 +3,6 @@
 - 🔭 Buscando um estágio para back-end
 - 📚 Estudando Python/JS
 - 📫 Contate-me no e-mail: jeniffer-monteiro@outlook.com
-- 😄 Pronouns: ela/dela
 
 
 
@@ -13,7 +12,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/942cbb640d59d13c3a1efe1ceb7d1a19.gif" border="0" alt="gif maker"></a>
+  
 </div>
   
   
