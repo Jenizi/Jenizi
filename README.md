@@ -1,7 +1,5 @@
-### Hi, eu sou a Jeni ^^
+### Hi, sou a Jeni 😊
 
-- 🔭 Buscando um estágio para back-end
-- 📚 Estudando Python/JS
 - 📫 Contate-me no e-mail: jeniffer-monteiro@outlook.com
 
 
